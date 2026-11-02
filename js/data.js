@@ -16,10 +16,10 @@ window.STORE = {
     brand: "GlobalLink Trading Co., Ltd.",        // 公司全称（用于页脚）
     shortName: "GlobalLink",                      // 品牌简称（导航栏显示）
     slogan: "Your Trusted Global Sourcing Partner", // 标语
-    email: "sales@yourcompany.com",               // 你的联系邮箱（海外客户发邮件用）
-    whatsapp: "8613800000000",                    // 你的 WhatsApp 号码（国家代码+手机号，不要加 + 号和空格）
-    wechat: "your_wechat_id",                     // 你的微信号
-    address: "No. 88 Trade Road, Shenzhen, Guangdong, China", // 地址
+    email: "mengxufeng@bestten.cn",               // 你的联系邮箱（海外客户发邮件用）
+    whatsapp: "8618820031841",                    // 你的 WhatsApp 号码（国家代码+手机号，不要加 + 号和空格）
+    wechat: "18820031841",                     // 你的微信号
+    address: "No. 5, East Side of Yuepu Industrial Park, Xiangshan Avenue, Ningxi Street, Zengcheng District, Guangzhou City, Building 01, Guangdong, China", // 地址
     since: "2015"                                 // 公司成立年份（用于 "Established in"）
   },
 
